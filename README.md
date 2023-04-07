@@ -82,6 +82,10 @@ via my [ko-fi page.](https://breadco.de/book) This will help me
 to cover costs related to running the-bread-code and allow me
 to work more updates for this book.
 
+## Styleguide
+
+A detailed style guide for grammar, punctuation, and formatting conventions can be [found here](styleguide.md).
+
 ## Links
 
 * [My YouTube channel](https://youtube.com/c/thebreadcode)
